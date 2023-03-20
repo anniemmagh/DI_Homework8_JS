@@ -40,3 +40,15 @@
 //   const result = a * b;
 //   console.log("a<b-ზე, ამიტომ , a*b-ზე" + result);
 // }
+
+// 4. მოცემულია მასივი
+// [“apple”, ”pear”, ”banana”, "grape”, ”mango”]
+
+// მასივის მეთოდების დახმარებით წაშალეთ ბოლო ელემენტი მასივიდან,ჩაამატეთ თქვენთვის სასურველი ხილი მასივის ბოლოში,წაშალეთ მასივის პირველი ელემენტი და ჩაამატეთ სხვა ხილი მასივის დასაწყისში  
+
+// let fruits = ['apple', 'pear', 'banana', 'grape', 'mango'];
+// let lastFruits =fruits.pop();
+// let lastnewfruit = fruits.push ('Papaia');
+// let firstFruit = fruits.shift();
+// fruits.unshift('orange');
+// console.log(fruits)

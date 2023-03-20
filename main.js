@@ -52,3 +52,26 @@
 // let firstFruit = fruits.shift();
 // fruits.unshift('orange');
 // console.log(fruits)
+
+// 5. დაბეჭდეთ family ობიექტიდან შვილის (child) პირველი ინტერესი (basketball)
+// const family = {
+//     surname: 'Brown',
+//     members: [
+//         {
+//             role: 'father',
+//             name: 'George',
+//             interests: ['cars', 'soccer']
+//         },
+//         {
+//             role: 'mother',
+//             name: 'Mary',
+//             interests: ['movies']
+//         },
+//         {
+//             role: 'child',
+//             name: 'Tom',
+//             interests: ['basketball', 'cartoons']
+//         }
+//     ]
+//    }
+//    console.log(family([2],[2],[0]))
